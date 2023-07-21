@@ -1,3 +1,6 @@
+![MyPortFolio](https://github.com/japkiratsingh/portfolio/assets/80908363/44b9dc43-e95b-4a99-aca8-a516fa7a2f90)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
