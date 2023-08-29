@@ -10,10 +10,10 @@ const Home = () => {
       <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
         <div className="flex flex-col justify-center h-full">
           <h2 className="text-4xl sm:text-7xl font-bold text-white">
-            I'm FrontEnd Developer
+            I'm <Web></Web> Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            Hello!! I'm Japkirat SIngh Lamba as FrontEnd Web Developer and Web Designer.
+            Hello!! I'm Japkirat SIngh Lamba as Web Developer and Web Designer.
             Currently I Love to work on projects like Web Development using technologies like TailWind CSS, React JS,  Material UI.
           </p>
 
