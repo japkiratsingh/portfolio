@@ -14,7 +14,7 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-          Hello, and welcome to my portfolio! I am a <strong>frontend developer </strong>
+          Hello, and welcome to my portfolio! I am a <strong>Web developer </strong>
            with expertise in React JS, Tailwind CSS, and Material UI.
           <br />Allow me to introduce myself and share a bit about my journey and passion for web development.Throughout my career, I have gained extensive experience and a deep understanding of building dynamic and user-friendly web applications using the power of React JS. React JS is my go-to JavaScript library for developing modern, scalable, and efficient web applications.
 
